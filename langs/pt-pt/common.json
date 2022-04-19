@@ -30,5 +30,12 @@
   "Game Count": "Contagem de Jogos",
   "Animation Count": "Contagem de Animações",
   "Game Soundtracks": "Contagem de Jogos",
-  "Animation Soundtracks": "Bandas Sonoras de Animações"
+  "Animation Soundtracks": "Bandas Sonoras de Animações",
+  "Email_Sent": "An email has been sent to the address linked to the account. Check your spam folder",
+  "Username or email": "Username or email",
+  "Recover password": "Recover password",
+  "Invalid_Login": "Invalid username/email or password",
+  "Username": "Username",
+  "Password": "Password",
+  "Failed_Recover": "Failed to recover password"
 }
