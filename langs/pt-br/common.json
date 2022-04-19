@@ -39,8 +39,8 @@
   "Password": "Senha",
   "Failed_Recover": "Falha na recuperação da senha",
   "Animations": "Animações",
-  "Favorite_Added": "Adicionado aos Favoritos",
-  "Favorite_Removed": "Removido dos Favoritos",
+  "Favorite_Added": "Adicionado aos seus favoritos!",
+  "Favorite_Removed": "Removido de seus favoritos!",
   "Favorite_Add": "Adicionar aos Favoritos",
   "Favorite_Remove": "Remover dos Favoritos",
   "Favorite_Login": "Entre para adicionar aos favoritos",
@@ -57,6 +57,6 @@
   "Related Soundtracks": "Trilhas Sonoras Relacionadas",
   "Become_Donator": "Torne-se um doador para acessar links diretos!",
   "Direct": "Direto",
-  "Tracklist": "Tracklist",
+  "Tracklist": "Lista de Faixas",
   "Disc": "Disco"
 }
