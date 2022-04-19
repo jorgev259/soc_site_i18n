@@ -58,5 +58,10 @@
   "Become_Donator": "Become a donator to access direct links!",
   "Direct": "Direct",
   "Tracklist": "Tracklist",
-  "Disc": "Disc"
+  "Disc": "Disc",
+  "Comment_Login": "Login to leave a comment",
+  "Comment_Anon": "Don't show on profile and hide username",
+  "Save comment": "Save comment",
+  "Add comment": "Add comment",
+  "Edit comment": "Edit comment"
 }
