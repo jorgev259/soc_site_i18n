@@ -10,6 +10,7 @@
     "Album List",
     "Games",
     "Animation",
+    "Animations",
     "Contact",
     "Album Admin",
     "Manage Users",
@@ -41,6 +42,27 @@
     "Soundtrack Count",
     "Game Soundtracks",
     "Animation Soundtracks",
-    "Highlight Soundtrack"
+    "Highlight Soundtrack",
+
+    "Favorite_Added",
+    "Favorite_Removed",
+    "Favorite_Add",
+    "Favorite_Remove",
+    "Favorite_Login",
+    "Release Date",
+    "Artists",
+    "Classification",
+    "Game Soundtrack",
+    "Animation Soundtrack",
+    "Published by",
+    "Favorite Score",
+    "Check album at",
+    "Buy_Original",
+    "Download",
+    "Related Soundtracks",
+    "Become_Donator",
+    "Direct",
+    "Tracklist",
+    "Disc"
   ]
 }
