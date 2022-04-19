@@ -19,7 +19,7 @@ baseList.forEach(space => {
     Object.keys(base).forEach(k => {
       if (!langFile[k]) {
         add = true
-        langFile[k] = base[k]
+        langFile[k] = ''
       }
     })
 
