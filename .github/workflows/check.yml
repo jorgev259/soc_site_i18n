@@ -18,11 +18,11 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '16'
-          cache: 'yarn'
+          cache: 'npm'
 
       - name: Install dependencies
         run: |
-          yarn install --production --pure-lockfile    
+          npm install --omit=dev --pure-lockfile    
 
       - name: Run automatic check
         run: |
