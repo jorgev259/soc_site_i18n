@@ -2,9 +2,9 @@ name: Automatic Check
 
 on:
   push:
-    branches: [ main ]
+    branches: [ tech-rework ]
   pull_request:
-    branches: [ main ]
+    branches: [ tech-rework ]
   workflow_dispatch:
 
 jobs:
