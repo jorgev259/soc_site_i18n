@@ -1,9 +1,8 @@
 const fs = require('fs-extra')
-const glob = require('glob')
 
 const langs = require('./langs.json')
 const keys = require('./keys.json')
-const en = glob.sync('langs/en.json')
+const en = require('./langs/en.json')
 
 langs.forEach(lang => {
   const langFilePath = `langs/${lang}.json`
