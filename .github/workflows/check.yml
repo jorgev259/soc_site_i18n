@@ -39,7 +39,6 @@ jobs:
         run: |
           node bundle.js
           cp .gitignore build/.gitignore
-          cp keys.json build/keys.json
 
       - name: Push bundle to dist branch
         uses: s0/git-publish-subdir-action@develop
