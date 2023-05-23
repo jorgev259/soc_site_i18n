@@ -2,37 +2,34 @@ const fs = require('fs-extra')
 const glob = require('glob')
 
 const langs = require('./langs.json')
+const keys = require('./keys.json')
+const en = glob.sync('langs/en.json')
 
-const baseList = glob.sync('langs/en/**.json')
-baseList.forEach(space => {
-  langs.forEach(lang => {
-    const base = require(`./${space}`)
-    const fileName = space.replace('langs/en/', '')
+langs.forEach(lang => {
+  const langFilePath = `langs/${lang}.json`
+  const newFile = !fs.existsSync(langFilePath)
+  const langFile = newFile ? {} : require(`./${langFilePath}`)
 
-    const langFilePath = `langs/${lang}/${fileName}`
-    const newFile = !fs.existsSync(langFilePath)
-    const langFile = newFile ? {} : require(`./${langFilePath}`)
+  let add = false
+  let remove = false
 
-    let add = false
-    let remove = false
+  keys.forEach(k => {
+    if (!langFile[k]) {
+      add = true
+      langFile[k] = ''
+    }
+  })
 
-    Object.keys(base).forEach(k => {
-      if (!langFile[k]) {
-        add = true
-        langFile[k] = ''
-      }
-    })
-
-    Object.keys(langFile).forEach(k => {
-      if (!base[k]) {
+  Object.keys(langFile)
+    .forEach(k => {
+      if (!en[k]) {
         remove = true
         delete langFile[k]
       }
     })
 
-    if (add || remove) {
-      if (newFile) fs.ensureFileSync(langFilePath)
-      fs.writeJsonSync(langFilePath, langFile, { spaces: 2 })
-    }
-  })
+  if (add || remove) {
+    if (newFile) fs.ensureFileSync(langFilePath)
+    fs.writeJsonSync(langFilePath, langFile, { spaces: 2 })
+  }
 })

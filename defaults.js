@@ -1,14 +1,11 @@
-const defaults = require('./defaults.json')
 const fs = require('fs-extra')
 
-Object.keys(defaults).forEach(fileName => {
-  const langFilePath = `langs/en/${fileName}.json`
-  const currentFile = require(`./${langFilePath}`)
+const keys = require('./keys.json')
+const en = require('./langs/en.json')
 
-  defaults[fileName].forEach(k => {
-    if(!currentFile[k]) currentFile[k] = k
-  })
+keys.forEach(key => {
+  if (!en[key]) en[key] = key
 
-  fs.ensureFileSync(langFilePath)
-  fs.writeJsonSync(langFilePath, currentFile, { spaces: 2 })
+  fs.ensureFileSync('./langs/en.json')
+  fs.writeJsonSync('./langs/en.json', en, { spaces: 2 })
 })
