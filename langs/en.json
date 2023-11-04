@@ -19,12 +19,11 @@
     "Requests": "Requests",
     "Submit Album": "Submit Album",
 
-    "Admin Grounds": {
-      "Manage Albums": "Manage Albums",
-      "Manage Users": "Manage Users",
-      "Manage Requests": "Manage Requests",
-      "Manage Submissions": "Manage Submissions"
-    }
+    "Admin Grounds": "Admin Grounds", 
+    "Manage Albums": "Manage Albums",
+    "Manage Users": "Manage Users",
+    "Manage Requests": "Manage Requests",
+    "Manage Submissions": "Manage Submissions" 
   },
 
   "common": {
@@ -93,7 +92,7 @@
   "holy12_3": "We let our technicians pick these",
   "holy12_4": "It's noisy outside, take one of these",
   "holy12_5": "Silksong is hidden behind one of these",
-  "Avg. Rating": "Avg. Rating",
+  "Avg Rating": "Avg Rating",
   "Rating saved!": "Rating saved!",
   "Failed to save rating": "Failed to save rating",
   "Edit this album": "Edit this album"
