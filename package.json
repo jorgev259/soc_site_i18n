@@ -1,7 +1,0 @@
-{
-  "name": "soc_site_i18n",
-  "dependencies": {
-    "fs-extra": "^10.0.1",
-    "glob": "^8.0.1"
-  }
-}
