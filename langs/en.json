@@ -1,4 +1,44 @@
 {
+  "header": {
+    "Home": "Home",
+    "Last Added": "Last Added",
+    "Album List": "Album List",
+
+    "Albums": "Albums",
+
+    "Games": "Games", 
+    "Series": "Series",
+    "Publishers": "Publishers",
+    "Platforms": "Platforms",
+    "Game List": "Game List",
+
+    "Animation": "Animation",
+    "Animation List": "Animation List",
+    "Studios": "Studios",
+
+    "Requests": "Requests",
+    "Submit Album": "Submit Album",
+
+    "Admin Grounds": "Admin Grounds", 
+    "Manage Albums": "Manage Albums",
+    "Manage Users": "Manage Users",
+    "Manage Requests": "Manage Requests",
+    "Manage Submissions": "Manage Submissions" 
+  },
+
+  "login": {
+    "Login": "Login",
+    "Logout": "Logout",
+    "Register": "Register",
+    "Email_Sent": "An email has been sent to the address linked to the account. Check your spam folder",
+    "Username or email": "Username or email",
+    "Recover password": "Recover password",
+    "Invalid_Login": "Invalid username/email or password",
+    "Username": "Username",
+    "Password": "Password",
+    "Failed_Recover": "Failed to recover password"
+  },
+  
   "common": {
     "Last Added": "Last Added",
     "Last Added_header": "Last Added",
@@ -13,9 +53,6 @@
     "Manage Albums": "Manage Albums",
     "Manage Users": "Manage Users",
     "Profile": "Profile",
-    "Login": "Login",
-    "Logout": "Logout",
-    "Register": "Register",
     "Series": "Series",
     "Publishers": "Publishers",
     "Platforms": "Platforms",
@@ -32,13 +69,6 @@
     "Animation Count": "Animation Count",
     "Game Soundtracks": "Game Soundtracks",
     "Animation Soundtracks": "Animation Soundtracks",
-    "Email_Sent": "An email has been sent to the address linked to the account. Check your spam folder",
-    "Username or email": "Username or email",
-    "Recover password": "Recover password",
-    "Invalid_Login": "Invalid username/email or password",
-    "Username": "Username",
-    "Password": "Password",
-    "Failed_Recover": "Failed to recover password",
     "Animations": "Animations",
     "Favorite_Added": "Added to your favorites!",
     "Favorite_Removed": "Removed from your favorites!",
