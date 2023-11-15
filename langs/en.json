@@ -23,7 +23,9 @@
     "Manage Albums": "Manage Albums",
     "Manage Users": "Manage Users",
     "Manage Requests": "Manage Requests",
-    "Manage Submissions": "Manage Submissions" 
+    "Manage Submissions": "Manage Submissions",
+    "Login": "Login",
+    "Register": "Register"
   },
 
   "login": {
