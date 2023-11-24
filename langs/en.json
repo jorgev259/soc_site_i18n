@@ -38,7 +38,8 @@
     "Invalid_Login": "Invalid username/email or password",
     "Username": "Username",
     "Password": "Password",
-    "Failed_Recover": "Failed to recover password"
+    "Failed_Recover": "Failed to recover password",
+    "Profile": "Profile"
   },
   
   "common": {
