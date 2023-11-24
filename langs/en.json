@@ -41,7 +41,15 @@
     "Failed_Recover": "Failed to recover password",
     "Profile": "Profile"
   },
-  
+
+  "home": {
+    "Recent Releases": "Recent Releases",
+    "Last Added": "Last Added",
+    "More game releases": "More game releases",
+    "More animation releases": "More animation releases",
+    "More last added": "More last added"
+  },
+
   "common": {
     "Last Added": "Last Added",
     "Last Added_header": "Last Added",
