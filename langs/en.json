@@ -38,8 +38,10 @@
     "Invalid_Login": "Invalid username/email or password",
     "Username": "Username",
     "Password": "Password",
+    "Email": "Email",
     "Failed_Recover": "Failed to recover password",
-    "Profile": "Profile"
+    "Profile": "Profile",
+    "Profile pic": "Profile pic"
   },
 
   "home": {
