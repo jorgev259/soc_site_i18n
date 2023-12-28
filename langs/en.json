@@ -64,6 +64,49 @@
     "Animation Soundtracks": "Animation Soundtracks"
   },
 
+  "albumPage": {
+    "Published by": "Published by",
+    "Game Soundtrack": "Game Soundtrack",
+    "Animation Soundtrack": "Animation Soundtrack",
+    "Tracklist": "Tracklist",
+    "Disc": "Disc",
+    "Related Soundtracks": "Related Soundtracks",
+
+    "Buy_Original": "Buy The Original Soundtrack to support the artists",
+    "Download": "Download",
+    "Become_Donator": "Become a donator to access direct links!",
+    "Direct": "Direct",
+
+    "Avg Rating": "Avg Rating",
+    "Rating saved!": "Rating saved!",
+    "Failed to save rating": "Failed to save rating",
+
+    "Favorite_Login": "Login to add to favorites",
+    "Favorite_Add": "Add to favorites",
+    "Favorite_Remove": "Remove from favorites",
+    "Favorite_Added": "Added to your favorites!",
+    "Favorite_Removed": "Removed from your favorites!",
+
+    "favorite": {
+      "Favorite_Login": "Login to add to favorites",
+      "Favorite_Add": "Add to favorites",
+      "Favorite_Remove": "Remove from favorites",
+      "Favorite_Added": "Added to your favorites!",
+      "Favorite_Removed": "Removed from your favorites!"
+    },
+
+    "Edit this album": "Edit this album",
+
+    "comment": {
+      "Comment_Login": "Login to leave a comment",
+      "Comment_Anon": "Don't show on profile and hide username",
+      "Save comment": "Save comment",
+      "Add comment": "Add comment",
+      "Edit comment": "Edit comment",
+      "Comment_error": "Failed to add comment"
+    }
+  },
+
   "common": {
     "Last Added": "Last Added",
     "Last Added_header": "Last Added",
