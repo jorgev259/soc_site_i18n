@@ -77,9 +77,22 @@
     "Become_Donator": "Become a donator to access direct links!",
     "Direct": "Direct",
 
+    "download": {
+      "Buy_Original": "Buy The Original Soundtrack to support the artists",
+      "Download": "Download",
+      "Become_Donator": "Become a donator to access direct links!",
+      "Direct": "Direct"  
+    },
+
     "Avg Rating": "Avg Rating",
     "Rating saved!": "Rating saved!",
     "Failed to save rating": "Failed to save rating",
+
+    "rating": {
+      "Avg Rating": "Avg Rating",
+      "Rating saved!": "Rating saved!",
+      "Failed to save rating": "Failed to save rating"
+    },
 
     "Favorite_Login": "Login to add to favorites",
     "Favorite_Add": "Add to favorites",
