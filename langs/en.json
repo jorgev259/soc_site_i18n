@@ -94,18 +94,14 @@
       "Failed to save rating": "Failed to save rating"
     },
 
-    "Favorite_Login": "Login to add to favorites",
-    "Favorite_Add": "Add to favorites",
-    "Favorite_Remove": "Remove from favorites",
-    "Favorite_Added": "Added to your favorites!",
-    "Favorite_Removed": "Removed from your favorites!",
-
     "favorite": {
       "Favorite_Login": "Login to add to favorites",
       "Favorite_Add": "Add to favorites",
       "Favorite_Remove": "Remove from favorites",
       "Favorite_Added": "Added to your favorites!",
-      "Favorite_Removed": "Removed from your favorites!"
+      "Favorite_Removed": "Removed from your favorites",
+      "Favorite_Error_Add": "Failed to favorite album",
+      "Favorite_Error_Remove": "Failed to remove album from favorites"
     },
 
     "Edit this album": "Edit this album",
