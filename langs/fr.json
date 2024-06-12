@@ -35,7 +35,7 @@
     "Email_Sent": "Un email a été envoyé à l'adresse mail liée à ce compte. Vérifiez vos spams",
     "Username or email": "Nom d'utilisateur ou adresse mail",
     "Recover password": "Mot de passe oublié",
-    "Invalid_Login": "Nom d'utilisateur/adresse mail ou mot de passe invalide",
+    "Invalid_Login": "Nom d'utilisateur/adresse mail ou mot de passe incorrect",
     "Username": "Nom d'utilisateur",
     "Password": "Mot de passe",
     "Failed_Recover": "Echec de la procédure de réinitialisation du mot de passe",
@@ -70,7 +70,7 @@
     "Search Results for": "Chercher des résultats pour",
     "by artists": "par artiste",
     "holy12_0": "La compilation secrète de Cloud",
-    "holy12_1": "Meilleure musique de fond pour un dinner romantique",
+    "holy12_1": "Meilleure musique de fond pour un dîner romantique",
     "holy12_2": "12 clics avant minuit",
     "holy12_3": "Nous laissons nos techniciens prendre ceux-là",
     "holy12_4": "Il y a du bruit dehors, prends un album parmis ceux-là",
@@ -79,6 +79,6 @@
     "Avg Rating": "Note moyenne",
     "Rating saved!": "Note enregistrée!",
     "Failed to save rating": "Echec de la sauvegarde de la note",
-    "Edit this album": ""
+    "Edit this album": "Modifier cet album"
   }
 }
