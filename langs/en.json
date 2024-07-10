@@ -3,23 +3,18 @@
     "Home": "Home",
     "Last Added": "Last Added",
     "Album List": "Album List",
-
     "Albums": "Albums",
-
-    "Games": "Games", 
+    "Games": "Games",
     "Series": "Series",
     "Publishers": "Publishers",
     "Platforms": "Platforms",
     "Game List": "Game List",
-
     "Animation": "Animation",
     "Animation List": "Animation List",
     "Studios": "Studios",
-
     "Requests": "Requests",
     "Submit Album": "Submit Album",
-
-    "Admin Grounds": "Admin Grounds", 
+    "Admin Grounds": "Admin Grounds",
     "Manage Albums": "Manage Albums",
     "Manage Users": "Manage Users",
     "Manage Requests": "Manage Requests",
@@ -29,7 +24,6 @@
     "Profile": "Profile",
     "Register": "Register"
   },
-
   "login": {
     "Login": "Login",
     "Logout": "Logout",
@@ -45,7 +39,6 @@
     "Profile": "Profile",
     "Profile pic": "Profile pic"
   },
-
   "home": {
     "Recent Releases": "Recent Releases",
     "Last Added": "Last Added",
@@ -53,7 +46,6 @@
     "More animation releases": "More animation releases",
     "More last added": "More last added"
   },
-
   "sidebar": {
     "Last Added": "Last Added",
     "Get Lucky": "Get Lucky",
@@ -63,7 +55,6 @@
     "Game Soundtracks": "Game Soundtracks",
     "Animation Soundtracks": "Animation Soundtracks"
   },
-
   "albumPage": {
     "Published by": "Published by",
     "Game Soundtrack": "Game Soundtrack",
@@ -71,29 +62,24 @@
     "Tracklist": "Tracklist",
     "Disc": "Disc",
     "Related Soundtracks": "Related Soundtracks",
-
     "Buy_Original": "Buy The Original Soundtrack to support the artists",
     "Download": "Download",
     "Become_Donator": "Become a donator to access direct links!",
     "Direct": "Direct",
-
     "download": {
       "Buy_Original": "Buy The Original Soundtrack to support the artists",
       "Download": "Download",
       "Become_Donator": "Become a donator to access direct links!",
-      "Direct": "Direct"  
+      "Direct": "Direct"
     },
-
     "Avg Rating": "Avg Rating",
     "Rating saved!": "Rating saved!",
     "Failed to save rating": "Failed to save rating",
-
     "rating": {
       "Avg Rating": "Avg Rating",
       "Rating saved!": "Rating saved!",
       "Failed to save rating": "Failed to save rating"
     },
-
     "favorite": {
       "Favorite_Login": "Login to add to favorites",
       "Favorite_Add": "Add to favorites",
@@ -103,9 +89,7 @@
       "Favorite_Error_Add": "Failed to favorite album",
       "Favorite_Error_Remove": "Failed to remove album from favorites"
     },
-
     "Edit this album": "Edit this album",
-
     "comment": {
       "Comment_Login": "Login to leave a comment",
       "Comment_Anon": "Don't show on profile and hide username",
@@ -115,7 +99,14 @@
       "Comment_error": "Failed to add comment"
     }
   },
-
+  "comment": {
+    "Comment_Login": "Login to leave a comment",
+    "Comment_Anon": "Don't show on profile and hide username",
+    "Save comment": "Save comment",
+    "Add comment": "Add comment",
+    "Edit comment": "Edit comment",
+    "Comment_error": "Failed to add comment"
+  },
   "common": {
     "Last Added": "Last Added",
     "Last Added_header": "Last Added",
