@@ -98,7 +98,12 @@
       "Add comment": "Add comment",
       "Edit comment": "Edit comment",
       "Comment_error": "Failed to add comment"
-    }
+    },
+    "donation_title": "Consider Donating to remove ads",
+    "donation_info": "After donating, if the donation e-mail is the same as the one used in the notation, it should be available in a few hours. If not, contact us on",
+    "broken_link": "Broken Link? Contact us at",
+    "mediafire_permission": "MediaFire permission denied?",
+    "mediafire_permission_guide": "Check this guide"
   },
   "comment": {
     "Comment_Login": "Login to leave a comment",
