@@ -28,7 +28,7 @@
     "Login": "Login",
     "Logout": "Logout",
     "Register": "Register",
-    "Email_Sent": "An email has been sent to the address linked to the account. Check your spam folder",
+    "Email_Sent": "An email with further instructions has been sent to the address linked to the account. Check your spam folder.",
     "Username or email": "Username or email",
     "Recover password": "Recover password",
     "Invalid_Login": "Invalid username/email or password",
